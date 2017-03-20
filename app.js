@@ -5,7 +5,7 @@ var app = express()
 app.use(express.static('./public'))
 
 app.get('/', function(req, res) {
-    res.send('Yo World')
+    res.sendFile(__dirname + '/templates/index.html');
 })
 
 app.get('/:school', function(req, res) {
