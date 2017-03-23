@@ -1,4 +1,5 @@
 var express = require('express')
+var queries = require('./models/queries.js')
 
 var app = express()
 
@@ -9,7 +10,7 @@ app.get('/', function(req, res) {
 })
 
 app.get('/:school', function(req, res) {
-    res.send('You requested school ' + req.params.school)
+    res.send('You requested ' + req.params.school)
 })
 
 app.listen(3000, function () {
