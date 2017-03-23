@@ -8,4 +8,9 @@ var schoolsSchema = new Schema ({
     posts: Array
 });
 
-mongoose.model('schools', schoolsSchema);
+var schoolsModel = mongoose.model('schools', schoolsSchema);
+
+module.exports = {
+    schoolsModel: schoolsModel,
+    schoolsSchema: schoolsSchema
+}

@@ -1,11 +1,19 @@
 var mongoose = require('mongoose');
+var users = require('./users');
+var schools = require('./schools');
+
 var Schema = mongoose.Schema;
 
 var postsSchema = new Schema ({
-    school_id: Schema.objectId,
-    user_id: Schema.objectId,
+    school_id: String,
+    user_id: String,
     url: String,
     score: Number
 });
 
-mongoose.model('posts', postsSchema);
+var postsModel = mongoose.model('posts', postsSchema);
+
+module.exports = {
+    postsModel: postsModel,
+    postsSchema: postsSchema
+}

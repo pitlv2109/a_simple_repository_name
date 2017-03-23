@@ -1,4 +1,4 @@
-var mongoose = require('mongoose');
+var mongoose = require('mongoose')
 var Schema = mongoose.Schema;
 
 var usersSchema = new Schema ({
@@ -6,6 +6,11 @@ var usersSchema = new Schema ({
     type: Number,
     score: Number,
     posts: Array
-});
+})
 
-mongoose.model('users', usersSchema);
+var usersModel = mongoose.model('users', usersSchema);
+
+module.exports = {
+    usersModel: usersModel,
+    usersSchema: usersSchema
+}
