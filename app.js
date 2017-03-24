@@ -9,6 +9,14 @@ app.get('/', function(req, res) {
     res.sendFile(__dirname + '/views/index.html');
 })
 
+app.get('/signup', function(req, res) {
+    res.sendFile(__dirname + '/views/signup.html');
+})
+
+app.get('/signin', function(req, res) {
+    res.sendFile(__dirname + '/views/signin.html');
+})
+
 app.get('/:school', function(req, res) {
     res.send('You requested ' + req.params.school)
 })
