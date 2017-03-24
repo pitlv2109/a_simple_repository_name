@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="../css/homepage.css">
+      <link rel="stylesheet" type="text/css" href="../css/signin.css">
+      <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+      <title>Sign In</title>
+   </head>
+   <body>
+      <!-- Navigation bar -->
+      <nav class="navbar navbar-inverse navbar-static-top">
+         <div class="container-fluid">
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               </button>
+               <a class="navbar-brand" href="/">Meme Your School</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+               <ul class="nav navbar-nav navbar-right">
+                  <li><a href="/signup"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                  <li><a href="/signin"><span class="glyphicon glyphicon-menu-right"></span> Sign In</a></li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+      <!-- Body -->
+      <div class="container">
+         <div class="row main">
+            <div class="panel-heading">
+               <div class="panel-title text-center">
+                  <h1 class="title">WELCOME BACK!</h1>
+                  <!-- <hr /> --><!--a white line-->
+               </div>
+            </div>
+            <div class="main-login main-center">
+               <form class="form-horizontal" method="post" action="">
+                  <div class="form-group">
+                     <!-- <label for="username" class="cols-sm-2 control-label">Username</label> -->
+                     <div class="cols-sm-10">
+                        <div class="input-group">
+                           <span class="input-group-addon"><i class="glyphicon glyphicon-user" aria-hidden="true"></i></span>
+                           <input type="text" class="form-control" name="username" id="username" placeholder="Username" required/>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-group">
+                     <!-- <label for="password" class="cols-sm-2 control-label">Password</label> -->
+                     <div class="cols-sm-10">
+                        <div class="input-group">
+                           <span class="input-group-addon"><i class="glyphicon glyphicon-lock" aria-hidden="true"></i></span>
+                           <input type="password" class="form-control" name="password" id="password" placeholder="Password" required/>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-group">
+                     <button type="submit" class="btn btn-primary btn-lg btn-block login-button">Sign In</button>
+                  </div>
+                  <div class="reset-password">
+                     <a href="forgot-password">Reset Password</a>
+                  </div>
+                  <div class="login-register">
+                     <a href="signup">Don't have an account yet? Sign up here</a>
+                  </div>
+               </form>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
