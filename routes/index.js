@@ -4,20 +4,36 @@ var path = require('path');
 
 var router = express.Router();
 
-router.get('/', function(req, res) {
-    res.sendFile(path.resolve('views/index.html'));
-})
+router.route('/')
+    .get(function(req, res) {
+        res.sendFile(path.resolve('views/index.html'));
+    });
 
-router.get('/signup', function(req, res) {
-    res.sendFile(path.resolve('views/signup.html'));
-})
+router.route('/signup')
+    .get(function(req, res) {
+        res.sendFile(path.resolve('views/signup.html'));
+    })
 
-router.get('/signin', function(req, res) {
-    res.sendFile(path.resolve('views/signin.html'));
-})
+    .post(function(req, res) {
+        res.send("Will handle signup latter");
+    })
 
-router.get('/:school', function(req, res) {
-    res.send('You requested ' + req.params.school)
-})
+router.route('/signin')
+    .get(function(req, res) {
+        res.sendFile(path.resolve('views/signin.html'));
+    })
+
+    .post(function(req, res) {
+        res.send("Will handle signin latter");
+    })
+
+router.route('/:school')
+    .get(function(req, res) {
+        res.send('You requested ' + req.params.school)
+    })
+
+    .post(function(req, res) {
+        res.send("Will handle school latter");
+    })
 
 module.exports = router;
