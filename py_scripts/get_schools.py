@@ -5,8 +5,13 @@ def parse_text(urls):
     for url in urls:
         prefix = "http://www.reddit.com/r/"
 
+        # Get school's Reddit URL
         abbr = url['href'][len(prefix):]
+
+        # Get school's abbreviation
         abbr = abbr[0:len(abbr)-1]
+
+        # Get rid of the 's' in 'https'
         if len(abbr) > 0 and abbr[0] == '/':
             abbr = abbr[1:]
 
