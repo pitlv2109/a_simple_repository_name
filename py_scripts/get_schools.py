@@ -2,7 +2,28 @@ import urllib2
 from bs4 import BeautifulSoup
 
 def parse_text(urls):
+    for url in urls:
+        prefix = "http://www.reddit.com/r/"
 
+        abbr = url['href'][len(prefix):]
+        abbr = abbr[0:len(abbr)-1]
+        if len(abbr) > 0 and abbr[0] == '/':
+            abbr = abbr[1:]
+
+        # Lower abbr
+        abbr = abbr.lower()
+
+        write_to_file(abbr, url.next[1:])
+
+def write_to_file(abbr, name):
+    f = open('./schools_info.txt', 'a')
+    try:
+        f.write(name)
+        f.write('\n')
+        f.write(abbr)
+        f.write('\n')
+    except:
+        pass
 
 def scrape():
     page = urllib2.urlopen('https://www.reddit.com/r/college/wiki/faq').read()

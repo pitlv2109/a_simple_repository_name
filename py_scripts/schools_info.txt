@@ -1,0 +1,1016 @@
+Aberystwyth University
+aberystwyth
+Acadia University
+acadiau
+Algonquin College
+algonquin_college
+Amarillo College
+amarillocollege
+American University
+americanu
+Anderson University
+andersonuniversity
+Appalachian State University
+appstate
+Aquinas College
+aquinas
+Arkansas State University
+arkansasstate
+Arizona State University
+asu
+Auburn University
+auburn
+Australian National University
+anu
+Azusa Pacific University
+ap
+Babson College
+babson
+Ball State University
+ballstate
+Baruch College
+baruch
+Baylor University
+baylor
+Berea College
+berea
+Berklee College
+berklee
+Binghamton University
+binghamtonuniversity
+Biola University
+biola
+Boise State University
+bsu
+Boston Architectural College
+thebac
+Boston College
+bostoncollege
+Boston University
+bostonu
+Bournemouth University
+bournemouthuni
+Bowdoin College
+bowdoin
+Bowling Green State University
+bgsu
+Brandeis University
+brandeis
+British Columbia Institute of Technology
+bcit
+Brock University
+brocku
+Brown University
+brownu
+Broward College
+broward
+Bucknell University
+bucknell
+Butler University
+butleruniversity
+California College of the Arts, San Francisco
+cc
+California Institute Of Technology
+caltech
+California Polytechnic State University
+calpoly
+California Polytechnic State University - Pomona
+calpolypomona
+California State University - Channel Islands
+csuci
+California State University - Chico
+csu
+California State University - Fresno
+fresnostate
+California State University - Fullerton
+csuf
+California State University - Dominguez Hills
+csud
+California State University - East Bay
+csue
+California State University - Long Beach
+csulb
+California State University - Los Angeles
+csul
+California State University - Monterey Bay
+csum
+California State University - Northridge
+csun
+California State University - Sacramento
+csu
+California State University - San Bernardino
+csus
+California State University - San Marcos
+csusm
+California University of Pennsylvania
+calupa
+Canterbury Christ Church University
+cccu
+Capilano University
+capu
+Carnegie Mellon University
+cmu
+Carleton College
+etoncollege
+Carleton University
+carletonu
+Case Western Reserve University
+cwru
+Central Michigan University
+centralmich
+Chapman University
+chapmanuniversity
+City University London
+cityuniversitylondon
+City University of New York (CUNY)
+cuny
+Claremont Colleges
+claremontcolleges
+Clark University
+clarku
+Clemson University
+clemso
+Coastal Carolina University
+cc
+Colby College
+colb
+Colgate University
+colgate
+College of Charleston
+cofc
+College of the Holy Cross
+holycross
+Colorado School of Mines
+coloradoschoolofmines
+Colorado State University
+csufoco
+Columbia College
+colum
+Columbia University
+columbia
+Concordia University
+concordia
+Connecticut College
+conncoll
+Cornell University
+cornell
+Coventry University
+covuni
+Curtin University
+curtin
+Dalhousie University
+dalhousie
+Dartmouth College
+dartmouth
+Davidson College
+davidsoncollege
+Denison University
+denison
+Depaul University
+depaul
+DePauw University
+depau
+Devry University
+devr
+Digipen Institute of Technology
+digipen
+Diablo Valley College
+dv
+Drexel University
+drexel
+Duke University
+duke
+Durham College
+uoit
+Earlham College
+earlhamcolleg
+Eastern Connecticut State University
+ecsu
+East Tennessee State University
+etsu
+Eastern Washington University
+ewu
+Embry-Riddle Aeronautical University
+erau
+Emerson College
+emersoncollege
+Emory University
+emory
+Evergreen State College
+evergreen
+Fairfield University
+fairfieldu
+Fanshawe College
+fanshawe
+Flagler College
+flaglercollege
+Florida Atlantic University
+fau
+Florida Gulf Coast University
+fgcu
+Florida Institute of Technology
+fit
+Florida International University
+fiu
+Florida State University
+fsu
+Folsom Lake College
+flc
+Fontbonne University
+fontbonne
+Fordham University
+fordham
+Franklin & Marshall College
+fandm
+Fresno State
+fresnostate
+Furman University
+furman
+George Mason University
+gmu
+George Washington University
+gwu
+Georgetown University
+georgetown
+Georgia College and State University
+gcsu
+Georgia Southern University
+gsu
+Georgia State University
+gastate
+Georgia Institute of Technology
+gatech
+Goldsmiths University
+goldsmiths
+Gonzaga University
+gonzaga
+Grand Valley State University
+gvsu
+Grant MacEwan University
+gmacewan
+Greenville College
+greenvillecollege
+Griffith University
+griffithuni
+Grinnell College
+grinnell
+Grossmont College
+grossmont
+Gulf Coast State College
+gcsc
+Gustavus Adolphus College
+gustavus
+Hamilton College
+hamiltoncollege
+Hampshire College
+hampshirecollege
+Harford Community College
+harfordcc
+Harvard University
+harvard
+Harvey Mudd College
+harveymud
+Henderson State University
+hendersonstate
+Hillsdale College
+hillsdale
+Holy Cross
+holycross
+Houston Community College
+houstoncc
+Humber College
+humber
+Humboldt State University
+humboldtstate
+Hunter College
+huntercollege
+Illinois Institute of Technology
+iit
+Illinois State University
+ilstu
+Illinois Wesleyan University
+illinoiswesleyan
+Imperial College London
+rial
+Indiana University
+indianauniversity
+Indiana University of Pennsylvania
+iup
+Iowa State University
+iastate
+Ithaca College
+cacollege
+Jacksonville State University
+jsu
+James Madison University
+jmu
+John Carroll University
+jcu
+Johns Hopkins University
+jhu
+Juniata College
+juniatacolleg
+Kansas State University
+kstat
+Kennesaw State University
+ksu
+Kent State University
+kentstateuniversity
+Kettering University
+kettering
+King's College - London
+kcl
+Kutztown University
+kutztow
+Lakehead University
+lakehead
+Lawrence University
+lawrenceu
+Lehigh University
+lehig
+Longwood University
+ongwood
+Loughborough University
+lufbr
+Luther College Iowa
+luthe
+Louisiana State University
+lsu
+Louisiana Tech University
+louisianatec
+Loyola Marymount University
+lmu
+Lyon College
+lyoncollege
+Macon State College
+macon_state
+Macquarie University
+macuni
+Manchester Metropolitan University (Manchester, UK)
+mmu
+Marist College
+marist
+Marlboro College
+marlborocollege
+Marquette University
+marquette
+Marshall University
+marshalluniversit
+Mayfield College
+mayfieldcolleg
+Metropolitan State College of Denver
+mscd
+Massachusetts Institute of Technology
+mit
+McGill University
+mcgill
+McKendree University
+mckendree_universit
+McMaster University
+mcmaster
+Memorial University - Canada
+memorialuniversit
+Miami University - Oxford
+miamioh
+Michigan State University
+msu
+Michigan Technological University
+mtu
+Mississippi State University
+msstate
+Missouri State University
+missouristate
+Milwaukee Area Technical College
+matc
+Milwaukee School of Engineering
+msoe
+Middle Tennessee State University
+mtsu
+Mohawk College
+mohawkcollege
+Montana State University
+msucats
+Monterey Peninsula College
+mpc
+Mountain State University
+mountainstate
+Mt San Jacinto College 
+mtsanjacintocollege
+Murdoch University
+murdoc
+Murray State University
+murra
+National University of Singapore
+nussingapore
+New Jersey Institute Of Technology
+njtech
+New Mexico Institute of Mining and Technology
+nmt
+New Mexico State University
+nmsu
+New York University - NYU
+nyu
+Neumont University
+neumont
+North Carolina State University
+ncs
+North Dakota State University
+ndsu
+Northeastern University
+neu
+Northern Arizona University
+nau
+Northern Kentucky Univeristy
+nku
+Northern Illinois University
+niu
+Nicholls State University
+nsu
+Northwestern University
+northwestern
+Norwegian University of Science and Technology (NTNU)
+ntnu
+Oberlin College
+oberlin
+Occidental College
+oxy
+Ohio State University
+osu
+Ohio University
+athensohio
+Oklahoma City University
+oc
+Oklahoma State University
+okstate
+Old Dominion University
+
+Olin College
+oli
+Orange Coast College
+oc
+Oregon State University
+oregonstateuniv
+Otago University
+uotago
+Otterbein College
+otterbein
+Oxford Brookes University
+oxfordbrookes
+Pace University
+pace
+Pacific Lutheran University
+plu
+Parkland College
+parklandcollege
+Penn State University
+pennstateuniversity
+Pennsylvania College of Technology
+gopct
+Pepperdine University
+pepperdine
+Polk State College
+polkstatecolleg
+Pomona College
+pomonacolleg
+Pontificia Universidad Catolica de Chile
+pu
+Portland State University
+portlandstat
+Princeton University
+princeton
+Providence College
+providencecollege
+Purdue University
+purdue
+Queen Mary University of London - Barts
+qmulandbart
+Queen's University
+queensuniversit
+Queensland University of Technology
+qutreddi
+Quinnipiac University
+quinnipiac
+Radford University
+radforduniversity
+Reed College
+reedcollege
+Rice University
+riceuniversity
+Rensselaer Polytechnic Institute
+rpi
+Richard Stockton College of New Jersey
+richardstockton
+Riverside Community College
+rcc
+Rochester Institute of Technology (RIT)
+rit
+Roosevelt University
+roosevelt
+Rose Hulman Institue
+rosehulman
+Rutgers University
+rutgers
+Rowan University
+rowanuniversity
+Ryerson University
+ryerson
+Saginaw Valley State University
+svsu
+Sam Houston State University
+shsu
+San Diego State University
+sdsu
+San Francisco State University
+sfsu
+San Jose State University
+sjsu
+Santa Clara University (SCU)
+scu
+Saint Francis Xavier University (STFX)
+stfx
+Saint Joseph's University (SJU)
+sju
+Saint Olaf College
+stolaf
+Saint Thomas (Houston)
+stthoma
+Salt lake Community College
+slcc
+Savannah College of Art and Design
+scad
+School of Oriental and African Studies
+soas
+School of Visual Arts (SVA)
+sva
+Scripps College
+scrippscolleg
+Seattle University (SU)
+seattleu
+Seneca College in Toronto
+seneca
+Seton Hall University (SHU)
+shu
+Sheridan College
+sherida
+Shippensburg University (SUP)
+shi
+Siena College
+siena
+Sierra College
+sierracollege
+Simon Fraser University (SFU)
+simonfraser
+Sonoma State University
+ssu
+Southeast Missouri State University
+sem
+Southern Alberta Institute of Technology(SAIT)
+sai
+Southern Illinois University Edwardsville
+siue
+Southern Methodist University
+sm
+Saint Edwards University
+stedward
+St. Petersburg College
+spc
+St. John's College
+stjohnscolleg
+Southern Illinois University
+siu
+Southern Polytechnic State University
+spsu
+South Dakota School of Mines and Tech (SDSM&T)
+sdsm
+State University of New York at Oswego - SUNY
+oswego
+State University of New York at Potsdam - SUNY
+potsda
+Stephen F. Austin State University
+sfa
+Stevens Institute of Technology
+stevens
+Stanford University
+stanford
+Stony Brook University - SUNY
+sbu
+Swansea University
+swanseaun
+Syracuse University
+syracuse
+Taylor University
+tayloruniversit
+Tarleton State University
+tarleton
+Teesside University
+teessideuniversity
+Tennessee State University
+tsu
+Temple University
+temple
+Texas A&M
+aggies
+Texas Christian University
+tcu
+Texas State University
+txstate
+The College of New Jersey
+tcnj
+The Evergreen State College
+evergree
+Thomas Edison State College
+tesc
+Trinity College, Dublin
+tcd
+Trinity University
+trinityu
+Troy University
+troyu
+Texas Tech University
+texastech
+Touro University
+tour
+Towson University
+towson
+Tufts University
+tufts
+Tulane University
+tulane
+United States Naval Academy
+usn
+Universidad de Costa Rica
+ucrc
+Universidad de San Carlos de Guatemala
+usac
+University at Albany - SUNY
+ualban
+University of Alabama
+capstone
+University at Buffalo - SUNY
+ubreddit
+University College London (UCL)
+ucl
+University of Akron
+uakro
+University of Alabama
+capstone
+University of Alabama at Birmingham
+uab
+University of Alabama at Huntsville
+uah
+University of Alberta
+ualberta
+University of Arizona
+uofarizona
+University of Arkansas
+universityofarkansas
+University of Baltimore
+ubaltimore
+University of Birmingham (UK)
+uofb
+University of British Columbia
+ubc
+University of Bristol
+uob
+University of Calgary
+ucalgary
+University of California - Berkeley
+berkeley
+University of California - Davis
+ucdavis
+University of California - Irvine
+uci
+University of California - Los Angeles
+ucla
+University of California - Merced
+ucmerced
+University of California - Riverside
+ucr
+University of California - San Diego
+ucsd
+University of California - Santa Barbara
+ucsantabarbara
+University of California - Santa Cruz
+ucsc
+University of Cambridge
+cambridge_uni
+University of Cape Town
+uct
+University of Central Arkansas
+uca
+University of Central Oklahoma
+uco
+University of Central Florida
+ucf
+University of Chicago
+uchicago
+University of Cincinnati
+ucinci
+University of Colorado - Auraria
+cudenver
+University of Colorado - Boulder
+cuboulder
+University of Colorado - Colorado Springs
+uccs
+University of Connecticut
+uconn
+University of Dayton
+uofdayton
+University of Delaware
+udel
+University of Edinburgh
+uoe
+University of Essex
+essexuni
+University of Exeter
+exe
+University of Florida
+ufl
+University of Georgia
+uga
+University of Guelph
+uoguelph
+University of Guelph-Humber
+guelphhumber
+University of Hartford
+uhar
+University of Hawaii
+universityofhawaii
+University of Houston
+universityofhouston
+University of Idaho
+uofi
+University of Houston-Downtown
+uhd
+University of Illinois at Chicago
+uicwhatshot
+University of Illinois at Urbana-Champaign
+uiuc
+University of Iowa
+uiowa
+University of Kansas
+universityofkansas
+University of Kentucky
+universityofkentucky
+University of Leeds
+leedsuni
+University of Limerick
+universityoflimerick
+University of Lincoln
+lincolnuni
+University of Louisiana-Lafayette
+ull
+University of Louisville
+allhail
+University of Maine
+umaine
+University of Manitoba
+umanitob
+University of Mary Washington
+umw
+University of Maryland
+umd
+University of Maryland-Baltimore County
+umb
+University of Massachusetts-Amherst
+umass
+University of Massachusetts-Dartmouth
+umassd
+University of Massachusetts-Lowell
+uml
+University of Memphis
+uofmemphis
+University of Miami
+umiami
+University of Michigan
+uofm
+University of Missouri: Kansas City
+umk
+University of Minnesota
+uofmn
+University of Minnesota Duluth
+uofmnduluth
+University of Mississippi
+olemiss
+University of Missouri-Columbia (Mizzou)
+mizzo
+University of Montana
+um
+University of Montevallo
+montevall
+University of Nebraska-Lincoln
+unlincoln
+University of Nevada, Las Vegas
+unlv
+University of Nevada, Reno
+unr
+University of New Hampshire
+unh
+University of New Mexico
+unm
+University of New South Wales
+unsw
+University of North Carolina Chapel Hill
+tarheels
+University of North Carolina Charlotte
+unccharlotte
+University of North Carolina Greensboro
+uncg
+University of North Carolina Wilmington
+uncw
+University of North Dakota
+und
+University of North Florida
+un
+University of North Texas
+unt
+University of Northern Iowa
+uni
+University of Notre Dame
+notredame
+University of Oklahoma
+sooners
+University of Ontario Institute of Technology
+uoit
+University of Ottawa
+geegees
+University of Oxford
+oxforduni
+University of Pennsylvania
+upenn
+University of Pisa
+unipi
+University of Pittsburgh
+pitt
+University of Queensland
+uqreddit
+University of Redlands
+universityofredlands
+University of Rochester
+urocheste
+University of Saint Andrews
+standrews
+University of San Diego
+torero
+University of San Francisco
+usfca
+University of Saskatchewan
+usask
+University of Scranton
+universityofscranton
+University of Sheffield
+uos
+University of Southern California
+usc
+University of Southern Indiana
+usi
+University of South Carolina
+gamecocks
+University of South Florida
+usf
+University of St. Thomas - Houston
+stthomas
+University of Strathclyde
+strathclyd
+University of Sydney
+usyd
+University of Technology, Sydney
+uts
+University of Tennessee - Knoxville
+utk
+University of Texas - Austin
+utaustin
+University of Texas - Dallas
+utdallas
+University of Texas - El Paso
+utep
+University of Texas - Pan-American
+utpa
+University of Texas - San Antonio
+utsa
+University of Texas - Tyler
+utt
+University of the Fraser Valley
+ufv
+University of the Pacific
+uop
+University of the Philippines
+peyups
+University of Toledo
+universityoftoledo
+University of Toronto
+uoft
+University of Tulsa
+utulsa
+University of Utah
+uofu
+University of Vermont
+universityofvermont
+University of Victoria
+uvic
+University of Virginia
+uva
+University of Warwick
+universityofwarwick
+University of Washington
+udub
+University of Washington | Bothell
+uwb
+University of Waterloo
+uwaterloo
+University of West Georgia
+uwg
+University of Western Ontario
+uwo
+University of Wisconsin - Eau Claire
+uweauclaire
+University of Wisconsin Green Bay
+uwgb
+University of Wisconsin Madison
+uwmadison
+University of Wisconsin Milwaukee
+uwmilwaukee
+University of Wisconsin Oshkosh
+uwoshkos
+University of Wisconsin Whitewater
+uwwhitewater
+University of Wyoming
+uwyo
+University of York
+universityofyork
+Utah Valley University
+uvu
+Vancouver Island University
+viu
+Vanderbilt University
+vanderbilt
+Vassar College
+vassar
+Virginia Commonwealth University
+vcu
+Ventura County Community Colleges
+vcccd
+Villanova University
+villanova
+Virginia Tech
+virginiatech
+Vrije Universiteit Brussel
+vub
+Wake Forest University
+wfu
+Wake Tech
+waketech
+Washington State University
+wsu
+Washington University in St. Louis
+washu
+Wayne State University
+waynestate
+Wellesley College
+wellesleycollege
+West Liberty University
+westliberty
+Wesleyan University
+wesleyan
+West Texas A&M University
+wtamu
+West Virginia Univeristy
+wvu
+West Chester University
+wcupa
+Western Carolina University
+wc
+Western Connecticut State University
+wcsu
+Western Governors University
+wgu
+Western Kentucky University
+wku
+Western Washington University
+wwu
+Westminster College SLC
+westminstercollege
+Westmont College In Santa Barbara
+westmont
+Wentworth Institute of Technology
+wit
+Widener University
+widener
+Wilfrid Laurier University
+wlu
+William and Mary
+williamandmary
+William Woods University
+woodsway
+Williams College
+williamscollege
+Wheaton College (IL)
+wheaton
+Worcester Polytechnic Institute
+wpi
+Wright State University (OH)
+wrightstate
+Yale University
+yale
+York University in Toronto
+yorku
