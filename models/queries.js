@@ -32,7 +32,7 @@ function create_new_school(name, banner, abbr) {
     new_school.save(function(err) {
         if (err) throw err;
     });
-    console.log("Created a new school");
+    console.log("Created a new school named " + name + " with abbr: " + abbr);
 }
 
 // Create a new post
