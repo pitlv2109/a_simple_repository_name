@@ -62,6 +62,7 @@ function get_all_schools(callback) {
             schools = [];
             for(i = 0; i < data.length; i++) {
                 schools.push(data[i].name);
+                schools.push(data[i].abbr);
             }
             // Wrap this around to get the return value from this async find() function
             callback(schools);
