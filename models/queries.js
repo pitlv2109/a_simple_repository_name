@@ -32,7 +32,7 @@ function create_new_school(name, banner, abbr) {
     new_school.save(function(err) {
         if (err) throw err;
     });
-    console.log("Created a new school");
+    console.log("Created a new school named " + name + " with abbr: " + abbr);
 }
 
 // Create a new post
@@ -48,8 +48,31 @@ function insert_new_post(/*school_id, user_id,*/ url) {
     console.log("Created a new post");
 }
 
+// Async function to return all schools from the db
+function get_all_schools(callback) {
+    // Return all documents in the schools collection
+    // Callback function
+    mongoose.model('schools').find({}, function(err, data) {
+        if (err) {
+            console.log(err);
+            callback([]);
+        }
+        else {
+            // Get all schools name from the school object array
+            schools = [];
+            for(i = 0; i < data.length; i++) {
+                schools.push(data[i].name);
+                schools.push(data[i].abbr);
+            }
+            // Wrap this around to get the return value from this async find() function
+            callback(schools);
+        }
+    });
+}
+
 module.exports = {
     create_new_user: create_new_user,
     create_new_school: create_new_school,
-    insert_new_post: insert_new_post
+    insert_new_post: insert_new_post,
+    get_all_schools: get_all_schools
 }
