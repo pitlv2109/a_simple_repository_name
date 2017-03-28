@@ -6,7 +6,7 @@ function match(input) {
     }
 }
 function pwd(input) {
-    if (input.value.includes(" ")) {
+    if (input.value.includes(' ')) {
         input.setCustomValidity('Must not contain spaces.');
     } else if (input.value.length < 6) {
         input.setCustomValidity('Minimum length is 6 characters.');
