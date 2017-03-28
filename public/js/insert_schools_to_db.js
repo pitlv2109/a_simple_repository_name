@@ -3,7 +3,7 @@ var fs = require('fs');
 var queries = require('./../../models/queries');
 
 const rl = readline.createInterface({
-    input: fs.createReadStream('./../../py_scripts/schools_info.txt')
+    input: fs.createReadStream('./../../data/schools_info.txt')
 });
 
 var count = 0;

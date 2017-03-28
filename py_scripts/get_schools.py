@@ -21,7 +21,7 @@ def parse_text(urls):
         write_to_file(abbr, url.next[1:])
 
 def write_to_file(abbr, name):
-    f = open('./schools_info.txt', 'a')
+    f = open('../data/schools_info2.txt', 'a')
     try:
         f.write(name)
         f.write('\n')
