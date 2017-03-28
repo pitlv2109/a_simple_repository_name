@@ -1,6 +1,6 @@
 function match(input) {
     if (input.value != document.getElementById('password').value) {
-        input.setCustomValidity('Password Must be Matching.');
+        input.setCustomValidity('Password must match.');
     } else {
         input.setCustomValidity('');
     }
