@@ -18,10 +18,14 @@ router.route('/')
         // Process data
         req.on('end', function() {
             school_name = qs.parse(body).school_name;
-
             // Get abbr from school_name and redirect to domain/abbr
             queries.get_abbr(school_name, function(abbr) {
-                return res.redirect(abbr);
+                if (abbr.length != 0) {
+                    return res.redirect(abbr);
+                }
+                else {
+                    return res.redirect("/");
+                }
             });
         })
     })

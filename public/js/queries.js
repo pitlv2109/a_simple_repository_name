@@ -78,7 +78,12 @@ function get_abbr(school_name, callback) {
             callback("");
         }
         else {
-            callback(school.abbr);
+            if (school != null) {
+                callback(school.abbr);
+            }
+            else {
+                callback("");
+            }
         }
     });
 }
