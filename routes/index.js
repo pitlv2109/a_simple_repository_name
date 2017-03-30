@@ -50,7 +50,7 @@ router.route('/signin')
 
 router.route('/:school')
     .get(function(req, res) {
-        res.send('You requested ' + req.params.school)
+        res.render('index', {title: 'LOL'});
     })
 
     .post(function(req, res) {
