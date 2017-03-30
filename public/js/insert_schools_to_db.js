@@ -1,6 +1,6 @@
 var readline = require('readline');
 var fs = require('fs');
-var queries = require('./../../models/queries');
+var queries = require('./queries');
 
 const rl = readline.createInterface({
     input: fs.createReadStream('./../../data/schools_info.txt')

@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
-var users = require('./users');
-var schools = require('./schools');
-var posts = require('./posts');
+var users = require('../../models/users');
+var schools = require('../../models/schools');
+var posts = require('../../models/posts');
 
 mongoose.connect('mongodb://memeapp:memeapp123@ds137220.mlab.com:37220/memeapp');
 
@@ -70,9 +70,23 @@ function get_all_schools(callback) {
     });
 }
 
+// Get the abbr from the given school_name
+function get_abbr(school_name, callback) {
+    mongoose.model('schools').findOne({'name': school_name}, function(err, school) {
+        if (err) {
+            console.log(err);
+            callback("");
+        }
+        else {
+            callback(school.abbr);
+        }
+    });
+}
+
 module.exports = {
     create_new_user: create_new_user,
     create_new_school: create_new_school,
     insert_new_post: insert_new_post,
-    get_all_schools: get_all_schools
+    get_all_schools: get_all_schools,
+    get_abbr: get_abbr,
 }

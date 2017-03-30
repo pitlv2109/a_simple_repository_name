@@ -1,5 +1,5 @@
 var express = require('express');
-var queries = require('../models/queries.js');
+var queries = require('../public/js/queries');
 var path = require('path');
 var qs = require('querystring');                    // To get data from forms
 
@@ -18,10 +18,12 @@ router.route('/')
         // Process data
         req.on('end', function() {
             school_name = qs.parse(body).school_name;
-            abbr = queries.get_abbr(school_name);
-            return res.redirect('/uiuc');
-        })
 
+            // Get abbr from school_name and redirect to domain/abbr
+            queries.get_abbr(school_name, function(abbr) {
+                return res.redirect(abbr);
+            });
+        })
     })
 
 router.route('/signup')

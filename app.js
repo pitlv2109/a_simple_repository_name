@@ -1,5 +1,5 @@
 var express = require('express')
-var queries = require('./models/queries.js')
+var queries = require('./public/js/queries.js')
 var index_router = require('./routes/index.js')
 
 var app = express()

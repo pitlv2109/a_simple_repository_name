@@ -1,6 +1,6 @@
 var readline = require('readline');
 var fs = require('fs');
-var queries = require('./../../models/queries');
+var queries = require('./queries');
 
 // Script to write school names from the db to a file
 // File will be used for the autocomplete search bar
