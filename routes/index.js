@@ -1,13 +1,28 @@
 var express = require('express');
 var queries = require('../models/queries.js');
 var path = require('path');
+var qs = require('querystring');                    // To get data from forms
 
 var router = express.Router();
 
 router.route('/')
     .get(function(req, res) {
         res.sendFile(path.resolve('views/index.html'));
-    });
+    })
+    .post(function(req, res) {
+        var body = '';
+        // Read data from form
+        req.on('data', function(data) {
+            body += data;
+        })
+        // Process data
+        req.on('end', function() {
+            school_name = qs.parse(body).school_name;
+            abbr = queries.get_abbr(school_name);
+            return res.redirect('/uiuc');
+        })
+
+    })
 
 router.route('/signup')
     .get(function(req, res) {

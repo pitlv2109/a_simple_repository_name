@@ -1,3 +1,4 @@
+// Get all school names from local file school_names.json
 function get_school_names() {
     var schools = [];
 
