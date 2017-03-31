@@ -7,6 +7,7 @@ var app = express()
 app.use(express.static('./public'))
 app.use(express.static('./dependencies'))
 app.use(express.static('./data'))
+app.use(express.static('./bower_components'))
 
 app.use(index_router);
 

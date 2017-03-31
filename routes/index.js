@@ -1,6 +1,9 @@
 var express = require('express');
 var queries = require('../models/queries.js');
 var path = require('path');
+var passport = require('passport');
+require('../config/passport')(passport);
+
 
 var router = express.Router();
 
@@ -26,6 +29,9 @@ router.route('/signin')
     .post(function(req, res) {
         res.send("Will handle signin latter");
     })
+
+router.route('/auth/facebook')
+    .get(passport.authenticate('facebook'));
 
 router.route('/:school')
     .get(function(req, res) {
