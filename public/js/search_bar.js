@@ -2,7 +2,7 @@ function get_school_names() {
     var schools = [];
 
     // Get JSON file
-    $.getJSON("/school_names.json", function(json) {
+    $.getJSON("school_names.json", function(json) {
         for(i = 0; i < json.schools.length; i++) {
             // Append each school name to the schools array
             // Ready for autocomplete search bar
