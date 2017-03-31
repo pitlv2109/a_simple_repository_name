@@ -1,5 +1,6 @@
 var FacebookStrategy = require('passport-facebook').Strategy;
 var configAuth = require('./auth');
+var query = require('../models/queries');
 
 module.exports = function(passport) {
     passport.serializeUser(function(user, done) {
@@ -17,9 +18,9 @@ module.exports = function(passport) {
 
     },
 
-    function(accessToken, refreshToken, profile, cb) {
+    function(accessToken, refreshToken, profile, done) {
         process.nextTick(function () {
-          return done(null, profile);
+            return done(null, profile);
         });
     }
     ));

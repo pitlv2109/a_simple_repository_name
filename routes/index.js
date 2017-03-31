@@ -33,6 +33,19 @@ router.route('/signin')
 router.route('/auth/facebook')
     .get(passport.authenticate('facebook'));
 
+router.route('/auth/facebook/callback')
+    .get(passport.authenticate('facebook', {
+                successRedirect : '/profile',
+                failureRedirect : '/login'
+        }));
+
+// router.route('/auth/facebook/callback')
+//       .get(passport.authenticate('facebook', { failureRedirect: '/login' }),
+//             function(req, res) {
+//                 // Successful authentication, redirect home.
+//             res.redirect('/');
+//         });
+
 router.route('/:school')
     .get(function(req, res) {
         res.send('You requested ' + req.params.school)
