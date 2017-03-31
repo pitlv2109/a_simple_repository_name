@@ -1,5 +1,5 @@
 {
-  "name": "a_simple_repository_name",
+  "name": "C3xD",
   "version": "1.0.0",
   "description": "A meme sharing website for college students",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pitlv2109/a_simple_repository_name.git"
+    "url": "git+https://github.com/pitlv2109/c3xd.com"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pitlv2109/a_simple_repository_name/issues"
+    "url": "https://github.com/pitlv2109/c3xd.com/issues"
   },
-  "homepage": "https://github.com/pitlv2109/a_simple_repository_name#readme",
+  "homepage": "https://c3xd.herokuapp.com/",
   "dependencies": {
     "express": "^4.15.2",
     "mongoose": "^4.9.1",
